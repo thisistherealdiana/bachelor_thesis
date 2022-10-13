@@ -4,6 +4,6 @@ This repository contains my bachelor thesis «Constructive methods for linear in
 
 Folders «Calculating function g» and «Calculating function u» contain the code written using MATLAB programming language. This code has been used to illustrate theoretical part of my research.
 
-The thesis itself can be viewed in the pdf-files. Chapter «Results of numerical experiments» contains a lot of examples.
+The thesis itself can be viewed in the pdf-files. Chapter «Results of numerical experiments» contains a lot of examples, one of them is provided below
 ![alt text](Example/g_function.png "g function")
 ![alt text](Example/u_function.png "u function")
